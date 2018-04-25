@@ -1,0 +1,23 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "helloworld",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WXLKaylee/node-learn.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "WXLKaylee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WXLKaylee/node-learn/issues"
+  },
+  "homepage": "https://github.com/WXLKaylee/node-learn#readme"
+}
